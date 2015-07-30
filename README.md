@@ -43,6 +43,7 @@ Copy the file *councilmatic/local_settings.py.template* to
 file.  By default, it is set up to scrape from Philadelphia's legislation
 system.
 
+A list of Legistar client URLs can be viewed [here](https://docs.google.com/spreadsheets/d/1IwNLFKHQ4RX9NyCRW8hM2514KiWW0bRmp4O7sJhdEz4/edit#gid=0).
 
 ### Database
 
